@@ -1,0 +1,15 @@
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.exe
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.deps.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.runtimeconfig.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.AssemblyInfoInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.AssemblyInfo.cs
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.csproj.CoreCompileInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.sourcelink.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\refint\VerificadorParidade.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.genruntimeconfig.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\VerificadorNumeros_ParesEimpares_CSharp\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\ref\VerificadorParidade.App.dll
