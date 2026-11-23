@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificadorParidade.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fc6aa49496dc07486b6478bf7512e119eb57330")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9daf41ac65e17de9f597974aa16d04f6ffc9815a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificadorParidade.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificadorParidade.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
